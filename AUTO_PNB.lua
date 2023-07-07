@@ -1,4 +1,5 @@
-
+local MAG_X = -1 -- set magplant's x (LEAVE AT -1 TO GET IT AUTOMATICALLY FROM YOUR POSITION)
+local MAG_Y = -1 -- set magplant's y (LEAVE AT -1 TO GET IT AUTOMATICALLY FROM YOUR POSITION)
 
 local WEBHOOK = "https://discord.com/api/webhooks/1123450665264488628/CukcWC--bKb4Z0dXdFenu8T0mCagF92XXtZRa0GFWIQXkBy94xLIU0ppIu4LcwpOApNo" -- webhook link
 if MAG_X == -1 or MAG_Y == -1 then -- Don't touch
